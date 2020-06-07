@@ -21,4 +21,9 @@ para cadastro e busca de pontos de coletas para reciclagem de ítens como pilhas
 - [Knex](http://knexjs.org/)
 
 ## :computer: WEB
+![](https://github.com/KRochaS/nlw-01/blob/master/web.gif) 
+
+## :iphone: Mobile
+
+![](https://github.com/KRochaS/nlw-01/blob/master/mobile.gif)
 
