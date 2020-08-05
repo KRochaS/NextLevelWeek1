@@ -6,6 +6,7 @@ import CreatePoint from './pages/CreatePoint';
 
 
 // exact - verifica igualdade das rotas;
+// tem que ser exatamente só / 
 
 const Routes = () => {
     return(
