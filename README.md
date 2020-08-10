@@ -25,4 +25,7 @@ para cadastro e busca de pontos de coletas para reciclagem de ítens como pilhas
 
 ## :iphone: Mobile
 
-![](https://github.com/KRochaS/nlw-01/blob/master/mobile-gif.gif)
+<h1 align="center">
+    <img alt="Ecoleta Mobile" src=".github/mobile.gif" height="500"/>
+</h1>
+
