@@ -25,7 +25,4 @@ para cadastro e busca de pontos de coletas para reciclagem de ítens como pilhas
 
 ## :iphone: Mobile
 
-<div height="200" width="300">
 ![](https://github.com/KRochaS/nlw-01/blob/master/mobile-gif.gif)
-</div>
-
